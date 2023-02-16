@@ -256,7 +256,7 @@ def schedule_container():
     col1, col2 = st.columns(2)
     with col1:
         st.image("workshop/exam_day.jpeg", width=300)
-        st.caption(f"📅 17 Feb'23 | Till 11:59 PM")
+        st.caption(f"📅 19 Feb'23 | Till 11:59 PM")
 
     with col2:
 
