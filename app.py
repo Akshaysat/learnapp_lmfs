@@ -242,19 +242,11 @@ def schedule_container():
 
     workshop_container(
         "Day 07",
-        dt.datetime(2023, 2, 15, 20, 0, 0),
-        "Debt Mutual Funds 101",
+        dt.datetime(2023, 2, 16, 19, 15, 0),
+        "Debt Mutual Funds and ETFs 101",
         "workshop/debt-mutual-fund.jpg",
         "Analysis Framework and Fund Selection",
         "87092685447",
-    )
-    workshop_container(
-        "Day 08",
-        dt.datetime(2023, 2, 16, 20, 0, 0),
-        "ETFs 101",
-        "workshop/debt-mutual-fund.jpg",
-        "ETFs and index funds, selection parameters",
-        "86359211581",
     )
 
     st.subheader(f"📘 Day 09: Assessment Test & Submission")
