@@ -249,7 +249,7 @@ def schedule_container():
         "87092685447",
     )
 
-    st.subheader(f"📘 Day 09: Assessment Test & Submission")
+    st.subheader(f"📘 Day 08: Assessment Test & Submission")
     st.write("🚨 Submit all quizzes, assignments and attempt the final exam")
     st.write("")
 
@@ -276,7 +276,7 @@ def schedule_container():
     st.write("----")
     st.write("")
 
-    st.subheader(f"📘 Day 10: Graduation Day")
+    st.subheader(f"📘 Day 09: Graduation Day")
     st.write(
         "🚨 Celebrate your success, share your experience and progression path to become a good investor"
     )
